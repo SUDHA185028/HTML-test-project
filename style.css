@@ -1,4 +1,25 @@
-body{
-    background-color: blue;
-    
+label{
+    color: brown ; 
+}
+/* Important tag will make it implement intead of any other */
+#idcheck{
+    color: chocolate;
+    font-size: 30px;
+}
+#password{
+    color: darkblue !important;
+}
+#checkbox{
+    color: darkgoldenrod;
+}
+.sure{
+    color: darksalmon;
+}
+.fonttype{
+    font-size: 20px;
+}
+.redcolor{
+    color:crimson;
+    font-family: cursive;
+    font-size: 15px;
 }
