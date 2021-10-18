@@ -22,4 +22,40 @@ label{
     color:crimson;
     font-family: cursive;
     font-size: 15px;
+    font-weight: 900;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-style:dotted
+}
+.div_1{
+    margin: 40px 60px 50px 20px;
+
+}
+.p{
+    /* border: forestgreen;
+    border-style:solid;
+    border-width: 10px; */
+    border: 10px solid green;
+    border-radius: 20%;
+    padding: 5px;
+    background-color: burlywood;
+}
+.name{
+    border: 5px solid black;
+    height: 100px;
+    background-image: linear-gradient(180deg ,black ,yellow);
+}
+.name-1{
+    height: 100px;
+    border: 5px solid black;
+    background-image: url(https://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking_files/treesearch.gif);
+    background-repeat: no-repeat;
+}
+.bi{
+    height: 510px;
+    width: 50%;
+    border: 5px solid red;
+    background-image: url(logo.jpg);
+    background-size: cover;
 }
